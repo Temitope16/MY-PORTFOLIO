@@ -1,0 +1,97 @@
+.{
+    margin: o;
+    padding:o;
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+    background-color: darkgoldenrod;
+}
+#logo{
+    height: 50px; 
+    width: 100px;
+}
+#name{
+    font-size: 20px;
+    font-weight: 100px;
+}
+body{
+    background: #fff;
+    color: #000;
+    margin: 20px;
+}
+h1{
+    margin-left: 10px;
+}
+.menu{
+    text-emphasis-color: ;
+    text-decoration: none;
+    font-size: medium;
+    text-align-last: right;
+    cursor: pointer;
+}
+.menu a{
+    text-decoration:none;
+    color: grey;
+    padding: 14px;
+    padding:0 1rem;
+    height: 2.5rem;
+}
+.menu a:hover{
+    color: red;
+    font-size: large;
+    position: static;
+
+}
+#profile-image{
+    display: flex;
+}
+#images{
+    width: 300px;
+    height: 400px;
+    margin-inline-end: 4rem;
+    display: flex;
+    border-radius: 300px;
+    margin-top: 30px;
+    margin-left: 50px;
+  
+}
+ 
+#grey{
+    
+    padding-left: 30px;
+
+}
+#header{
+    width: 100%;
+    height: 100%;
+    background-image: url(Images/Temicrop.jpg.jpg);
+    background-size: cover;
+    background-position: right;
+}
+hr{
+    font-weight: bold;
+}
+.contact{
+    padding-right: 400px;
+    margin:30px;
+    cursor: pointer;
+}
+.contact:hover{
+    color: red;
+    }
+footer{
+    background-color: grey;
+    color: #fff;
+}
+
+
+/****************************About-Me.html***************************/
+#About-me 
+.ENGINEER{
+    background-color:orange;
+}
+/*****************************Contact-Me.html***************************/
+#Contact-me 
+/*****************************Resume.html***************************/
+#Resume.html
+/*****************************Services.html***************************/
+#Services.html
